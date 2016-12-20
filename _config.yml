@@ -1,0 +1,22 @@
+typography_spectrum: 0.18776311521197087
+color:
+  brandStrength: 0.883800251783969
+  lightness: 0.48658552706850194
+  saturation: 0.46390657110112066
+  rhythmicContrast: 0.06891208324332417
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+github: true
+layout_spectrum: 0.7531098897135494
+author:
+  name: 김주익
+  email: kimjuik@gmail.com
+  url: jejulife
+name: 제주도 이야기
+title: 제주도 이야기
+content: []
+description: '제주도의 생활 이모저모 '
